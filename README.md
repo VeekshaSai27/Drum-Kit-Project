@@ -19,7 +19,7 @@ Plays appropriate drum sound using audio files.
 
 ![image](https://github.com/user-attachments/assets/0e7c7d9e-7e61-4bc5-bad8-3dcd75e0b699)
 
-About the Project:
+
 When a user clicks a button or presses a key (w, a, s, d, j, k, or l), a specific drum sound is played.
 
 DOM Manipulation:
